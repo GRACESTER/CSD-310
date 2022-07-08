@@ -21,7 +21,7 @@ for player in players:
 
      "\nLast Name: {}".format(player[2]),
 
-     "\nTeam ID: {}".format(player[3]))
+     "\nTeam Name: {}".format(player[3]))
 
 print()
 print("Press any key to continue....")
